@@ -89,7 +89,7 @@ export default function About() {
             </motion.span>
 
             <motion.h2 variants={itemVariants} className="section-title">
-              We're <span className="gradient-text">OneXengine</span> —<br />
+              We're <span className="gradient-text">OneXmedia</span> —<br />
               Your Digital Growth Partner
             </motion.h2>
 

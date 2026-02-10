@@ -55,13 +55,13 @@ export default function Navbar() {
           <a 
             href="#" 
             className="absolute left-1/2 -translate-x-1/2 md:static md:translate-x-0 md:left-auto z-20 block"
-            aria-label="OneXengine Home"
+              aria-label="OneXmedia Home"
           >
             <span 
               className="text-xl md:text-2xl font-bold tracking-tight text-[var(--color-text-primary)]"
               style={{ fontFamily: 'var(--font-heading)' }}
             >
-              OneXengine
+              OneXmedia
             </span>
           </a>
 
