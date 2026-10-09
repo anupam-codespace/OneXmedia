@@ -13,6 +13,7 @@ import {
 } from 'lucide-react';
 
 const caseStudies = [
+  
   {
     id: 1,
     title: 'TechVault Analytics',
