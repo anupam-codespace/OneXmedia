@@ -13,6 +13,7 @@ import CustomCursor from './components/CustomCursor';
 import CaseStudies from './components/CaseStudies';
 import ServiceDetail from './components/ServiceDetail';
 
+
 function App() {
   const [currentPage, setCurrentPage] = useState('home');
   const [selectedService, setSelectedService] = useState(null);
