@@ -6,7 +6,6 @@ When you’re ready to grow, we make sure you grow loud.
 
 ## Deployment
 
-
 ### Vercel (Production)
 The site is deployed on Vercel at [https://onexmedia.vercel.app/](https://onexmedia.vercel.app/)
 
